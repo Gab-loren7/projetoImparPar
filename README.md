@@ -7,6 +7,9 @@
   <h3>
    Feito totalmente em HTML, CSS e JS.
   </h3>
+  
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/3d1c9e82-ede1-4a5c-a3cc-ea4c38302ca2/deploy-status)](https://app.netlify.com/sites/siteimparoupar/deploys)
+  
 </div>
 
 <br>
